@@ -10,4 +10,4 @@
 
 ## Stats
 ![taejung](https://github-readme-stats.vercel.app/api?username=taejung1&show_icons=true&theme=dark&count_private=true&hide_border=true)  
-![taejung2](https://github-readme-stats.vercel.app/api/top-langs/?username=taejung1&layout=compact&hide=css,xml&theme=tokyonight)
+![taejung2](https://github-readme-stats.vercel.app/api/top-langs/?username=taejung1&layout=compact&hide=css,xml&theme=dark)
